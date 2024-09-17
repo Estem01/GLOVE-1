@@ -57,7 +57,7 @@ GLOVE project is considered as work in progress, therefore contributions are mor
 To create your local git repository:
 
 ```
-git clone https://github.com/Think-Silicon/GLOVE.git
+git clone https://github.com/Estem01/GLOVE-1
 ```
 
 ## Required Packages
